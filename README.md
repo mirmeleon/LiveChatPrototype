@@ -1,4 +1,4 @@
-# LiveChatPrototype
+# LiveChat Prototype
 Web UI prototype for Online Chat system
 Tasks:
 I. Provide the following functionality to all visitors (without authentication):
