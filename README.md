@@ -1,4 +1,5 @@
 # LiveChat Prototype
+<strong>Project live view with clickable pages can be found here:</strong> https://marvelapp.com/628chd7
 Web UI prototype for Online Chat system
 Tasks:
 I. Provide the following functionality to all visitors (without authentication):
